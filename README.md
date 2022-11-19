@@ -8,4 +8,4 @@ As per Scholastic's request, no confidential case study data will be included in
 
 ## External Links
 - [Case Study Report](https://docs.google.com/document/d/1HBOeW8letljUrMRQH1tIBPaEObAj-y1P/edit?usp=sharing&ouid=116593750706486824453&rtpof=true&sd=true)
-- [Case Study Slide Deck](https://docs.google.com/presentation/d/1c2jyXNvT4887BNOAQA6kkJ2Q2YMyk1M9/edit?usp=sharing&ouid=116593750706486824453&rtpof=true&sd=true)
+- [Case Study Slide Deck](https://docs.google.com/presentation/d/1byG2IWTIwEszTSkUKbFq27o5yR9ES3Z0/edit?usp=sharing&ouid=116593750706486824453&rtpof=true&sd=true)
